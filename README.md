@@ -1,6 +1,6 @@
 # Organizador de Churrasco em .NET 6.0!
 
-Esse projeto é um sistema backend que foi feito em .NET 6.0 pra gerenciar os nossos churrascos (ja estou me considerando da familia Trinca)! A ideia é criar uma plataforma fácil de usar que cuida de tudo relacionado aos eventos de churrasco e convidados.
+Esse projeto é um sistema backend que foi feito em .NET 6.0 pra gerenciar os nossos churrascos da Trinca! A ideia é criar uma plataforma fácil de usar que cuida de tudo relacionado aos eventos de churrasco e convidados.
 
 Eu usei as tecnologias mais modernas e boas práticas de programação pra fazer isso acontecer. O projeto segue os princípios de Clean Architecture, SOLID e Clean Code!
 
