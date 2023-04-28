@@ -1,6 +1,6 @@
-# Churrasco Manager em .NET 6.0!
+# Organizador de Churrasco em .NET 6.0!
 
-E aí, pessoal! Esse projeto é um sistema backend que a gente fez em .NET 6.0 pra gerenciar os nossos churrascos (ja estou me considerando da familia Trinca)! A ideia é criar uma plataforma fácil de usar que cuida de tudo relacionado aos eventos de churrasco e convidados.
+Esse projeto é um sistema backend que foi feito em .NET 6.0 pra gerenciar os nossos churrascos (ja estou me considerando da familia Trinca)! A ideia é criar uma plataforma fácil de usar que cuida de tudo relacionado aos eventos de churrasco e convidados.
 
 Eu usei as tecnologias mais modernas e boas práticas de programação pra fazer isso acontecer. O projeto segue os princípios de Clean Architecture, SOLID e Clean Code!
 
@@ -17,4 +17,4 @@ O projeto foi organizado em cinco camadas pra deixar tudo mais fácil de entende
 + **Service:** Aqui é onde a gente coloca a lógica de negócio da aplicação.
 + **UseCases:** por último, mas não menos importante, essa camada contém as classes que orquestram as chamadas aos serviços da aplicação para atender as funcionalidades da aplicação.
 
-Valeu, vou aguardar o convite para aquele churrass
+Obrigadaa e vou aguardar o convite para aquele churrass
