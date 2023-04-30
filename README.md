@@ -1,4 +1,4 @@
-# Organizador de Churrasco em .NET 6.0!
+# Solução para Churrasco.
 
 Esse projeto é um sistema backend que foi feito em .NET 6.0 pra gerenciar os nossos churrascos da Trinca! A ideia é criar uma plataforma fácil de usar que cuida de tudo relacionado aos eventos de churrasco e convidados.
 
@@ -11,10 +11,10 @@ Para utilizar o projeto, é só baixar o .NET 6.0 SDK e usar o Visual Studio 201
 
 O projeto foi organizado em cinco camadas pra deixar tudo mais fácil de entender:
 
-+ **Domain:** É onde a gente guarda as entidades e modelos de negócio da aplicação. 
-+ **Interfaces:** Aqui é onde a gente define as interfaces públicas que são usadas pelas outras camadas.
-+ **Repositories:** É a camada que se comunica com o banco de dados.
-+ **Service:** Aqui é onde a gente coloca a lógica de negócio da aplicação.
-+ **UseCases:** por último, mas não menos importante, essa camada contém as classes que orquestram as chamadas aos serviços da aplicação para atender as funcionalidades da aplicação.
++ **Domain:** Esta camada contém as entidades e modelos de negócio da aplicação.
++ **Interfaces:** Nesta camada, são definidas as interfaces públicas que permitem a interação com outras camadas.
++ **Repositories:** Esta camada se comunica com o banco de dados da aplicação.
++ **Service:** Nesta camada se encontra a lógica de negócio da aplicação.
++ **UseCases:** Esta camada contém as classes que orquestram as chamadas aos serviços da aplicação para atender às funcionalidades específicas da aplicação.
 
-Obrigadaa e vou aguardar o convite para aquele churrass
+Obrigada.
